@@ -4,7 +4,12 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+*.sota/ 
+
+# data 
+data/ 
+local/
+checkpoints/
 
 # Distribution / packaging
 .Python
