@@ -10,6 +10,7 @@ __pycache__/
 data/ 
 local/
 checkpoints/
+work_dirs/
 
 # Distribution / packaging
 .Python
